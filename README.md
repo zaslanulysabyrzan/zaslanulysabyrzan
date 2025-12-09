@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Zaslanuly Sabyrzan**, a React & Next.js Frontend Developer focused on building clean, modern, and user‑friendly web interfaces.
+I'm **[Zaslanuly Sabyrzan](https://zsabyrzan.vercel.app/)**, a React & Next.js Frontend Developer focused on building clean, modern, and user‑friendly web interfaces.
 
 ## 🚀 Tech Stack
 
