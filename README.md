@@ -23,6 +23,6 @@ I'm **Zaslanuly Sabyrzan**, a React & Next.js Frontend Developer focused on buil
 * **Email:** [zaslanulysabyrzan@gmail.com](mailto:zaslanulysabyrzan@gmail.com)
 * **Telegram:** [@zsabyrzan](https://t.me/zsabyrzan)
 
----
-
-*Minimalist. Clean. Focused.*
+```
+Focused on quality.
+```
