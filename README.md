@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**zaslanulysabyrzan/zaslanulysabyrzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Zaslanuly Sabyrzan**, a React & Next.js Frontend Developer focused on building clean, modern, and user‑friendly web interfaces.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Core:** HTML, CSS, JavaScript (ES6+), TypeScript
+* **Frameworks:** React, Next.js
+* **Styling:** Tailwind CSS, shadcn/ui, CSS Modules, SCSS (BEM)
+* **Tools:** Vite, Git (GitHub), Figma
+* **DevOps:** Docker, GitHub Actions
+* **Deployment:** Vercel, Netlify, GitHub Pages
+
+## 📌 What I Do
+
+* Develop scalable and maintainable frontend architectures using React and Next.js
+* Implement strongly typed, production-ready components and API integrations with TypeScript
+* Build modern, responsive UI with Tailwind CSS, shadcn/ui, and custom SCSS modules
+* Ensure clean, performant, accessible interfaces with a consistent developer experience (ESLint, Prettier, Stylelint)
+
+## 📫 Contact
+
+* **Email:** [zaslanulysabyrzan@gmail.com](mailto:zaslanulysabyrzan@gmail.com)
+* **Telegram:** [@zsabyrzan](https://t.me/zsabyrzan)
+
+---
+
+*Minimalist. Clean. Focused.*
